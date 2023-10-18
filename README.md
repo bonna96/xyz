@@ -11,7 +11,8 @@ This program saves,changes and searches mobile numbers of different persons.It i
                      details of the person and returns their index in the file.
 
    * changenumber(): This function takes an index as a parameter and changes the mobile number of the person at 
-                     that index in the file “num.txt”. It uses fseek() ,holds a file, an offset, and a position 
+                     that index in the file “num.txt” after entering choice 2(search number) then we will be able
+                     to change the number. It uses fseek() ,holds a file, an offset, and a position 
                      to move the file pointer to the correct position and fprintf() to overwrite the old number 
                      with the new one.
 
