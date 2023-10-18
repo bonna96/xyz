@@ -1,7 +1,7 @@
 # xyz_project
 This is a Phone Book Management system with c programming language.
 
-This program saves,changes and searches mobile numbers of different persons.It includes stdio.h,stlib.h,conio.h,string.h libraries for using its required functions.The required sizes,numbers also define first in the code.There are some functions that have been used for the work.
+This program saves,changes and searches mobile numbers of different persons.It includes stdio.h,stlib.h,conio.h,string.h header files for using its required functions.The required sizes,numbers also define first in the code.There are some functions that have been used for the work.
 
    * addmobile(): This function asks the user to enter the details of a new person and appends them to the 
                   strime of the file named "num.txt".
